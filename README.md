@@ -109,7 +109,7 @@ For any questions or further information, please contact the project team:
 
 - Muhammad Saad Hussain: saadhussain868@gmail.com
 - Moez ur Rehman: moeezrehman107@gmail.com
-- Muhammad Bilal: handsomerana@gmail.com
+- Muhammad Bilal: handsomofficial887@gmail.com
 - Muhammad Sheraz: sheraz@gmail.com
 
 Thank you for your interest in SnapArt Pro!
