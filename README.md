@@ -1,5 +1,4 @@
 # SnapArt-Pro
-# SnapArt Pro
 
 Welcome to the SnapArt Pro repository! This repository contains the documentation and poster for the SnapArt Pro project, a Final Year Project developed by a team of students from the CS & IT Department at the University of Sargodha.
 
