@@ -9,10 +9,10 @@ SnapArt Pro is an innovative Android application designed to be a versatile tool
 
 ## Project Team
 
-- **Project Leader:** Muhammad Saad Hussain (BSCS51F20R041)
-- **Co-Leader:** Moez ur Rehman (BSCS51F20R016)
-- **Manager:** Muhammad Bilal (BSCS51F20R021)
-- **Software Architect:** Muhammad Sheraz (BSCS51F20R015)
+Muhammad Saad Hussain (BSCS51F20R041)
+Moeez ur Rehman (BSCS51F20R016)
+Muhammad Bilal (BSCS51F20R021)
+Muhammad Sheraz (BSCS51F20R015)
 
 ## Advisors
 
